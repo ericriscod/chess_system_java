@@ -1,14 +1,13 @@
 package application;
 
-import aboardgame.Position;
+import aboardgame.Board;
 
 public class program {
 
 	public static void main(String[] args) {
+	
+		Board board = new Board(8, 8);
 		
-		Position pos = new Position(2,5);
-		
-		System.out.println(pos);
 	}
 
 }

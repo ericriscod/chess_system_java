@@ -1,4 +1,4 @@
-package aboardgame;
+package boardgame;
 
 public class Piece {
 
